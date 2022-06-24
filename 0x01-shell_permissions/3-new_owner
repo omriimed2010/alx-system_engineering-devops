@@ -1,2 +1,2 @@
 #!/bin/bash
-chown root newfile.txt
+chown betty hello.txt
